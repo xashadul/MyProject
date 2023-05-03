@@ -2,7 +2,6 @@
 import react from 'react';
 import Navbtn from './Navbtn';
 import { Route,Routes as Switch } from 'react-router-dom';
-a
 import Heading from './Heading';
 import Home from './Home';
 import Services from './Services';
